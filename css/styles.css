@@ -94,6 +94,24 @@ a:active {
 
 }
 
+.icon-containter {
+  background-color: #66BFBF;
+  height: 45px;
+  align-content: center;
+  margin-top: 100px;
+}
+
+.logos {
+  height: 40px;
+  width: 40px;
+}
+
+.central-logo {
+  height: 40px;
+  width: 40px;
+  margin: auto;
+}
+
 .first-para {
   width: 25%;
   position: relative;
@@ -126,7 +144,6 @@ a:active {
 .bottom-container {
     background-color: #66BFBF;
     height: 200px;
-    margin-top: 100px;
     padding: 30px;
     align-content: center;
 }
