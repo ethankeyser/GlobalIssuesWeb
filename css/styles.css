@@ -78,6 +78,7 @@ a:active {
 .to {
   animation-name: slidein;
   animation-duration: 4.5s;
+  color: blue;
   font-weight: normal;
 }
 
@@ -122,6 +123,7 @@ a:active {
   font-weight: normal;
   animation-name: slidein;
   animation-duration: 6s;
+  color: blue;
 }
 
 
