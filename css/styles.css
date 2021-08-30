@@ -72,6 +72,7 @@ a:active {
    float: left;
   }
 
+
   li a:hover {
     background-color: #CDC9C3;
   }
@@ -91,8 +92,9 @@ a:active {
 
 .right-side-nav-text
 {
-  left: 90%;
+  left: 88%;
   position: absolute;
+  float: right;
 }
 
 .icon-logo {
