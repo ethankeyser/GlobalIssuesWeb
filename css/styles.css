@@ -92,14 +92,17 @@ a:active {
 
 .right-side-nav-text
 {
-  left: 88%;
-  position: absolute;
+  position: relative;
+}
+
+.right {
+  position: relative;
   float: right;
+  margin-right: 25px;
 }
 
 .icon-logo {
-  left: 96.5%;
-  position: absolute;
+  position: relative;
   height: 40px;
   width: 40px;
   margin-top: 5px;
