@@ -329,7 +329,6 @@ a:active {
 
 .title-nd {
   color: #002366;
-  animation-name: appear;
   animation-duration: 4s;
 }
 
@@ -340,7 +339,6 @@ a:active {
 
 .desc-nd {
   color: #002366;
-  animation-name: appear;
   animation-duration: 4s;
 }
 
