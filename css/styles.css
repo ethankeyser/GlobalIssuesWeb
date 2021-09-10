@@ -316,6 +316,8 @@ a:active {
 .middle-text {
   background-color: #66BFBF;
   height: auto;
+  color: #3A4750;
+  border-radius: 10px;
 }
 
 .images-left {
@@ -345,4 +347,23 @@ a:active {
 .nd-vid {
   width: 80%;
   height: 800px;
+}
+
+.sources {
+  background-color: #66BFBF;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+
+.source-title {
+  color: #3A4750;
+  margin-top: 10px;
+}
+
+.source-col {
+  border: 2px;
+  border-color: black;
 }
