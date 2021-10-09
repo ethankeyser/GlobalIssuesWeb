@@ -367,3 +367,61 @@ a:active {
   border: 2px;
   border-color: black;
 }
+
+/****Addiction Page Specifics****/
+
+.top-container-ad {
+  padding-top: 25px;
+  margin-top: 50px;
+  position: relative;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(adImg.jpg);
+}
+
+.middle-container-ad {
+  margin-bottom: 50px;
+}
+
+.images-right {
+  background-color: grey;
+}
+
+.middle-text {
+  background-color: #66BFBF;
+  height: auto;
+  color: #3A4750;
+  border-radius: 10px;
+}
+
+.images-left {
+  background-color: grey;
+}
+
+.margin-pics {
+  height: 350px;
+  width: 350px;
+}
+
+.title-ad {
+  color: #14279B;
+  animation-duration: 4s;
+}
+
+.sum {
+  color: #002366;
+  text-decoration: underline;
+}
+
+.desc-ad {
+  color: #14279B;
+  font-size: 2rem;
+  margin-top: 50px;
+  animation-duration: 4s;
+}
+
+.ad-vid {
+  width: 80%;
+  height: 800px;
+}
