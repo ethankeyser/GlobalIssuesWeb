@@ -5,11 +5,11 @@ body {
   font-family: 'Gowun Batang', serif;
   background-color: grey;
   color: white;
+  overflow-x: hidden;
 }
 
 h1 {
   margin: 50px auto 0 auto;
-  font-family: 'style script', cursive;
   color: #66BFBF;
 
 }
@@ -86,9 +86,6 @@ a:active {
   }
 
 /********Class CSS Styles*******/
-.nav {
-
-}
 
 .hr-middle-nd {
   margin-bottom: 50px;
@@ -96,7 +93,6 @@ a:active {
 
 .hr-middle-bot-nd {
   margin-top: 50px;
-  padding-top: 50px;
 }
 
 .right-side-nav-text
@@ -425,4 +421,22 @@ a:active {
 .ad-vid {
   width: 80%;
   height: 800px;
+}
+
+.top-container-as {
+  padding-top: 25px;
+  margin-top: 50px;
+  position: relative;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(xiImg.png);
+}
+
+.title-as {
+  color: #002366;
+}
+
+.desc-as {
+  color: #002366;
 }
