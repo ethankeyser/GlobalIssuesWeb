@@ -357,7 +357,7 @@ a:active {
 
 .source-title {
   color: #3A4750;
-  margin-top: 10px;
+  margin: auto;
 }
 
 .source-col {
@@ -434,9 +434,11 @@ a:active {
 }
 
 .title-as {
-  color: #002366;
+  color: #66BFBF;
+  animation-duration: 4s;
 }
 
 .desc-as {
-  color: #002366;
+  color: #66BFBF;
+  animation-duration: 4s;
 }
