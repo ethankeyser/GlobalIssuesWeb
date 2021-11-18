@@ -442,3 +442,18 @@ a:active {
   color: #66BFBF;
   animation-duration: 4s;
 }
+
+.top-container-e {
+  padding-top: 25px;
+  margin-top: 50px;
+  position: relative;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(energyImg.jpg);
+}
+
+.title-e {
+  color: #000000;
+  animation-duration: 4s;
+}
